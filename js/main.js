@@ -444,6 +444,8 @@
 	// Document on load.
 	$(function(){
 
+		
+		console.log('FernandoRicardez estuvo aqui');
 		burgerMenu();
 		owlCrouselFeatureSlide();
 		clickMenu();
